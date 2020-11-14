@@ -11,18 +11,18 @@ export const headData = {
 export const heroData = {
   title: 'the hatchling collective',
   name: 'neurodiverse people have superpowers',
-  subtitle: 'we want to help them grow thru software and tech',
+  subtitle: 'we want to help them grow with coding and tech',
   cta: 'what even?',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: '',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
-};
+  resume: ''
+}
 
 // PROJECTS DATA
 export const projectsData = [
